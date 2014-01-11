@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vitalitysurvival",
+  "name": "Vitality Survival",
+  "description": "Makes the experience a little more better!",
+  "version": "1.0.0",
+  "mcversion": "1.6.4",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Crowifick"],
+  "credits": "Crowifick",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

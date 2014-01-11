@@ -1,0 +1,18 @@
+05/01/2014
+	josh
+		added base of cables (unfinished)
+		gained a sharper plan of powernet
+		
+	Crowifick
+		added some missing code
+		tried to fix creative tabs
+		
+06/01/2014
+	josh	
+		started work on generator and GUI
+		got a mod pack creator to use our mod :)
+		
+		
+		
+	Bugs/errors
+		Game still not loading textures for me
